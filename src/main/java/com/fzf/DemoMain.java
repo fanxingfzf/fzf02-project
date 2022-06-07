@@ -9,5 +9,6 @@ package com.fzf;
 public class DemoMain {
     public static void main(String[] args) {
         System.out.println("hsudwu");
+        System.out.println("sauyg");
     }
 }
